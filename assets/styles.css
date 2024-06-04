@@ -1,0 +1,74 @@
+body {
+    background-image: url("image.png");
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-bottom: 1.5rem;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+.upload-area {
+    color: lightblue;
+    margin-top: 40px;
+}
+.upload-area:hover {
+    color: rgb(0, 123, 255);
+}
+
+
+
+/* #upload-image {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    color: #ffffff;
+    background-color: #343a40;
+} */
+
+/* .upload-area {
+    background-color: #343a40;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px dashed #ffffff;
+    text-align: center;
+    color: #ffffff;
+} */
+
+.text-center {
+    text-align: center;
+    color: #ffffff;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+
+.img-container {
+    height: 450px;
+    width: 450px;
+}
+
+.large-font {
+    font-size: large;
+    color: #ffffff;
+}
+
+.x-large-font {
+    font-size: x-large;
+    color: #ffffff;
+    text-align: center;
+}
